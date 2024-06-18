@@ -60,7 +60,7 @@ To set up this project locally for development:
 
 ## Deployment Link
 
-[Click here to go to the deployed site](https://geoschu.github.io/)
+[Click here to go to the deployed site](https://geoschu.github.io/day-scheduler/)
 
 ## Credits & Resources
 
